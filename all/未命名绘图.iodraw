@@ -14,7 +14,7 @@
           <mxGeometry x="1030" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fuo9eNdA63mEVdI4wXUx-5" value="logs" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="1150" width="120" height="60" as="geometry" />
+          <mxGeometry x="590" y="800" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fuo9eNdA63mEVdI4wXUx-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fuo9eNdA63mEVdI4wXUx-7" target="fuo9eNdA63mEVdI4wXUx-1">
           <mxGeometry relative="1" as="geometry" />
@@ -242,7 +242,7 @@
           <mxGeometry x="655" y="1380" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fuo9eNdA63mEVdI4wXUx-78" value="&#xa;&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-family: Inter, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;SF Pro SC&amp;quot;, &amp;quot;SF Pro Display&amp;quot;, &amp;quot;SF Pro Icons&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;details&lt;/span&gt;&#xa;&#xa;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="1240" width="120" height="70" as="geometry" />
+          <mxGeometry x="990" y="1220" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="fuo9eNdA63mEVdI4wXUx-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.667;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="fuo9eNdA63mEVdI4wXUx-78" target="fuo9eNdA63mEVdI4wXUx-5">
           <mxGeometry relative="1" as="geometry" />
@@ -251,7 +251,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fuo9eNdA63mEVdI4wXUx-87" value="&#xa;&lt;h5 style=&quot;-webkit-font-smoothing: antialiased; box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); margin-bottom: 8px !important; padding-bottom: 0px !important; font-weight: 700; line-height: 28px; margin-top: 24px; font-size: 16px; color: rgb(0, 0, 0); overflow-anchor: auto; font-family: Inter, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;SF Pro SC&amp;quot;, &amp;quot;SF Pro Display&amp;quot;, &amp;quot;SF Pro Icons&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot; class=&quot;header-OdWb_u auto-hide-last-sibling-br&quot;&gt;reservations&lt;/h5&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="510" y="610" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fuo9eNdA63mEVdI4wXUx-88" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="fuo9eNdA63mEVdI4wXUx-1" target="fuo9eNdA63mEVdI4wXUx-87">
           <mxGeometry relative="1" as="geometry">
